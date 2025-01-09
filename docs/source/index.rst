@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Victory Nguyễn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Victory Nguyễn <https://sun3win.com/author/victorynguyen/>`_ là một trong những nhân vật nổi bật và có tầm ảnh hưởng lớn trong lĩnh vực game bài đổi thưởng trực tuyến, hiện đảm nhận vai trò CEO của Sunwin. Với tầm nhìn chiến lược và kinh nghiệm sâu rộng trong ngành giải trí, Victory Nguyễn đã đưa Sunwin trở thành một trong những cổng game uy tín và đẳng cấp hàng đầu tại khu vực châu Á. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự lãnh đạo của ông, Sunwin không chỉ phát triển mạnh mẽ về quy mô mà còn xây dựng được uy tín với hàng triệu người chơi thông qua các sản phẩm chất lượng, dịch vụ chuyên nghiệp và cam kết bảo mật. Sự tận tâm và sáng tạo của Victory Nguyễn đã góp phần khẳng định vị thế của Sunwin như một biểu tượng của sự đổi mới và thành công trong lĩnh vực chơi game trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 36 Đường Liên Khu 4-5, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0776659815. 
 
-.. toctree::
+Email: contact@sun3win.com. 
 
-   usage
-   api
+Website: https://sun3win.com/author/victorynguyen/ 
+
+#victorynguyen #ceovictorynguyen #victorynguyen_sunwin
